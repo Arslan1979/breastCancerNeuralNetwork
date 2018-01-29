@@ -4,3 +4,5 @@ Feedforward neural network that classifies cancer as benign or malignant based o
 Achieved ~97.5% accuracy after 1000 epochs.
 
 Dataset is included in repo, for more information here: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+
+**Currently working on implementing F1-Score to more accurately reflect the models capabilities.**
